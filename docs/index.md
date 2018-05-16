@@ -2,6 +2,8 @@
 title: Bold360AI Android SDK
 ---
 
+The project is called {{ site.github.project_title }}
+
 The **Bold360AI Android SDK** is a native Android component. The SDK is intended to be integrated in any Android application and includes the following:
 
 # Supported Features  
