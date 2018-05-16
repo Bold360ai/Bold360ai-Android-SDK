@@ -2,8 +2,6 @@
 title: Bold360AI Android SDK
 ---
 
-# Bold360AI Android SDK
-
 {:.no_toc}
 
 The **Bold360AI Android SDK** is a native Android component. The SDK is intended to be integrated in any Android application and includes the following:
