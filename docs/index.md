@@ -2,8 +2,6 @@
 title: Bold360AI Android SDK
 ---
 
-{:.no_toc}
-
 The **Bold360AI Android SDK** is a native Android component. The SDK is intended to be integrated in any Android application and includes the following:
 
 ## Supported Features  
@@ -15,9 +13,6 @@ The **Bold360AI Android SDK** is a native Android component. The SDK is intended
 | Conversation
 | Accessibility
 | Speech Recognition
-
-* TOC
-{:toc}
 
 ## Supported Platforms  
 
