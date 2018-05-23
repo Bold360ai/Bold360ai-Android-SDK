@@ -1,4 +1,4 @@
-# Bold360AI-Android-SDK
+# bold360ai_android_sdk
 
 ### Demo: [Demo repo](https://github.com/Bold360ai/Bold360ai-android-SDK-Samples).
 
