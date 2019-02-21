@@ -1,4 +1,4 @@
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Important: Previous versions of the Conversational SDK will not be supported.**
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Important**
 >Note: A new version of the Bold360 AI SDK (V3) is available. 
 >The new SDK is fully configurable and introduces significant improvements, including the integration between the AI SDK and the live agent SDK.
 To begin a new project based on the Bold360 AI SDK, go to the [Bold360 AI page](https://developer.bold360.com/help/EN/Bold360API/Bold360API/c_sdk_combined_android_header.html).
