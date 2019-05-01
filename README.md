@@ -23,5 +23,6 @@ The **Conversational Android SDK** is a native Android component. The SDK is int
 ## License and Copyright Information
 All code in this project is released under the [Apache License 2.0](http://www.apache.org/licenses/) unless a different license for a particular library is specified in the applicable library path.   
 
+
 Copyright © 2018 Nanorep. All rights reserved.   
 Authors and contributors: See [GitHub contributors list](https://github.com/Bold360ai/Bold360ai-Android-SDK/graphs/contributors).
