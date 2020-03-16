@@ -25,3 +25,5 @@ All code in this project is released under the [Apache License 2.0](http://www.a
 
 Copyright © 2018 Nanorep. All rights reserved.   
 Authors and contributors: See [GitHub contributors list](https://github.com/Bold360ai/Bold360ai-Android-SDK/graphs/contributors).
+
+
